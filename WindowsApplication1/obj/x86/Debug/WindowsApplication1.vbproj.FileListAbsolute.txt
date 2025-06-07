@@ -1,0 +1,252 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\BSIT 3-2\SAASAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Angelo\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\BSIT 3-2\ITEC81\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\Documents\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Nelqt\Desktop\vb project\drive-download-20240114T032028Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Nelqt\Desktop\vb project\drive-download-20240114T032028Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Nelqt\Desktop\vb project\drive-download-20240114T032028Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+C:\Users\User\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmItemList.resources
+C:\Users\Nelqt\Desktop\vb project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStocks.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStocks.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Angelo\Documents\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFind.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFind.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStocks.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmReceipt.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFind.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmReceipt.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStocks.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Nelqt\Desktop\vb project\vb_final_project\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAboutUs.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAboutUs.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFind.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmReceipt.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStocks.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\Update-20240116T003911Z-001\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAboutUs.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFind.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmReceipt.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStocks.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROJECT BACKUP\new 11\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Accounts.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.addUser.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAboutUs.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmFind.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmPOS.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmReceipt.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmStocks.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PROJECT BACKUP\ALIGA_ASIA_CALVO_TORRES\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.recoverAccount.resources
+D:\IMPORTANT FILES\PROJECTS\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\IMPORTANT FILES\PROJECTS\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\IMPORTANT FILES\PROJECTS\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\IMPORTANT FILES\PROJECTS\ALIGA_ASIA_CALVO_TORRES\Update\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
